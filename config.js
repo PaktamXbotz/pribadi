@@ -51,9 +51,9 @@ global.location = "Surga, dan, Neraka" //ur location
 global.botname = "PAKTMBOTz" //ur bot name
 global.websitex = "https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/wNlvYrzP.mp4' } //gif and video menu
-global.packname = "PAKTAMBOTz\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Created by PaktamXbot"
-global.themeemoji = "🐶"
+global.packname = "PAKTAMBOTz\n\n\n\n\n\n\n🗿🗿🗿 "
+global.author = "🗿Created by PaktamXbot"
+global.themeemoji = "🥶"
 global.reactmoji = "😘"
 global.ownertag = ['6287898307350'] //ur owner tag
 global.ownernummenu = ['601169655956'] //ur owner number in menu and all
@@ -63,10 +63,10 @@ global.linkz1 = "https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2"
 global.linkz2 = "https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2"
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/menu.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/menu.jpg") //ur logo pic
+global.thum = fs.readFileSync("./XeonMedia/theme/20220703_191204.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/20220703_191204.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./XeonMedia/theme/menu.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/menu.jpg") //ur thumb pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/20220703_191204.jpg") //ur thumb pic
 
 //database
 global.ntilinkytvid = []
@@ -106,7 +106,7 @@ global.mess = {
     error: 'Error!',
     ban: 'KAMU TELAH DI BANNED, SILAHKAN HUBUNGI OWNER UNTUK UNBANNED',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'PENTABOT TELAH DILARANG MERESPON GRUP INI,SILAHKAN HUBUNGI OWNER UNTUK DI UNBAN'
+    banChat: 'PAKTAMBOT TELAH DILARANG MERESPON GRUP INI,SILAHKAN HUBUNGI OWNER UNTUK DI UNBAN'
 }
 global.limitawal = {
     premium: "Infinity",
