@@ -65,7 +65,7 @@ global.linkz2 = "https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2"
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/20220703_191204.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./XeonMedia/theme/20220703_191204.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/menu.jpg") //ur error pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/20220703_191204.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/20220703_191204.jpg") //ur thumb pic
 
 //database
